@@ -1,0 +1,2 @@
+@powershell -NoProfile -ExecutionPolicy Bypass -File "%~dp0installer.ps1" -Desinstaller
+@pause
